@@ -3,7 +3,9 @@
 Objectives:
 
 You are provided with two files to perform basic data analysis:
+
  a)tweet.json – Twitter feed
+ 
  b)Dictionary.txt – Contains words with a rating for each word
 
 You are required to analyze user comments in the tweet.json file and assign it a positive or negative polarity based on the words available in the Dictionary file. You might have to clean the JSON file before importing it in Hive.
@@ -20,7 +22,7 @@ c.	Based on the user’s followers count, who are the top ten users who have twe
 
 d.	What is the polarity score for each tweet that was posted? Does the tweet have a positive or negative sentiment?
 
-Hint: Use the dictionary.txt for the score
+----Use the dictionary.txt for the score
 
 Note: Include the date in the format ’yyyy-mm-dd’, with tweet id, user name and the score.
 
